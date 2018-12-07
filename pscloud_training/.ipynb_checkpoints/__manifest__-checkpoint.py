@@ -7,8 +7,6 @@
     'website': 'https://www.mypscloud.com/',
     'category': 'Tools',
     'depends': ['base'],
-    'data': [],
-    'demo'[],
     'qweb': [],
     'js': [],
     'css': [],
