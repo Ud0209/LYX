@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'UD_PScloud',
+    'name': 'PS cloud 培训',
     'version': '12.0.1.0',
     'summary': 'UD_PScloud',
     'author': "www.mypscloud.com",
@@ -13,7 +13,6 @@
         'views/res_partner_views.xml',
         'views/training_lesson_views.xml',
         'views/training_subject_views.xml',
-        'views/training_views.xml',
     ],
     'demo': [
         'demo/pscloud_demo.xml',
