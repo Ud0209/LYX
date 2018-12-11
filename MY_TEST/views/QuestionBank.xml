@@ -1,0 +1,6 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <menuitem id="TEST_menu" name="考试系统" sequence="0"/>
+    </data>
+</odoo>
