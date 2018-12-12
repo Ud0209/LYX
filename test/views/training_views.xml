@@ -12,9 +12,6 @@
             </field>
         </record>
 
-        <record id="action_training" model="ir.actions.act_window">
-            <field name="name">培训</field>
-        </record>
         
         
         <menuitem id="training_menu_root" name="培训管理" sequence="0"/>
