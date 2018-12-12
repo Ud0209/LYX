@@ -2,13 +2,18 @@
 {
     'name': '练习测试',
     'version': '12.0.1.0',
-    'summary': 'UD_Test',
+    'summary': 'Test',
     'author': "www.mypscloud.com",
     'website': 'https://www.mypscloud.com/',
     'category': 'Tools',
     'depends': ['base'],
-    'data': ['views/test_views.xml',]
-    'demo': [],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/res_partner_views.xml',
+        'views/training_views.xml',
+    ],
+    'demo': [
+    ],
     'qweb': [],
     'js': [],
     'css': [],
