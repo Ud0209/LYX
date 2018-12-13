@@ -10,7 +10,6 @@
                     <field name="name"/>
                 </tree>
             </field>
-            <field name="view_type">form</field>
         </record>
         <record id="action_training" model="ir.actions.act_window">
             <field name="name">培训</field>
