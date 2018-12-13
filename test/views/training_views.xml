@@ -7,7 +7,12 @@
             <field name="model">training</field>
             <field name="arch" type="xml">
                 <tree string="列表">
+                    <field name="Id"/>
                     <field name="name"/>
+                    <field name="A"/>
+                    <field name="B"/>
+                    <field name="C"/>
+                    <field name="D"/>
                 </tree>
             </field>
         </record>
