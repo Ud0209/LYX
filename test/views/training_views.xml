@@ -7,14 +7,10 @@
             <field name="model">training</field>
             <field name="arch" type="xml">
                 <tree string="列表">
-                    <field name="Id"/>
                     <field name="name"/>
-                    <field name="A"/>
-                    <field name="B"/>
-                    <field name="C"/>
-                    <field name="D"/>
                 </tree>
             </field>
+            <field name="view_type">form</field>
         </record>
         <record id="action_training" model="ir.actions.act_window">
             <field name="name">培训</field>
